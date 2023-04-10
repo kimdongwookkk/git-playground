@@ -1,2 +1,3 @@
 # git-playground
-1. master 1번커밋
+1. 1번 커밋
+2. 3번 커밋
